@@ -1,0 +1,2 @@
+No changes made to friction.
+Changed the dynamics aka the amount moved each time. 
