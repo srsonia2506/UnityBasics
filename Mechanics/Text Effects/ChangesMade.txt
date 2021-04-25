@@ -1,0 +1,4 @@
+- changed the background colour to black
+- Increased the font size and made the text bold and with italics
+- Centered the text
+- Changed the time per letter variable
