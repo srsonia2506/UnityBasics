@@ -1,0 +1,2 @@
+- Removed orange from the gradient to make it resemble battery life more closely
+- Changed the speed of movement & draining of health bar
